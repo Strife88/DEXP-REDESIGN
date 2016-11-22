@@ -1,0 +1,192 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dexp.club" resolutions="1x" timestamp="1479793756297">
+  <folder name="css">
+    <file name="site_global.css" crc="4057502066"/>
+    <file name="master_alternative-master.css" crc="3850197405" ref="service-center:smartphones:download:portable-electronic:product-page:drivers-and-files:main2:news:reviews-and-news:main3:news-1:sales:reviews:index:partners:company:about-company:catalog"/>
+    <file name="service-center.css" crc="4032752964" ref="service-center"/>
+    <file name="smartphones.css" crc="58803723" ref="smartphones"/>
+    <file name="download.css" crc="330445749" ref="download"/>
+    <file name="portable-electronic.css" crc="4197621031" ref="portable-electronic"/>
+    <file name="product-page.css" crc="328855057" ref="product-page"/>
+    <file name="drivers-and-files.css" crc="160430510" ref="drivers-and-files"/>
+    <file name="main2.css" crc="306733768" ref="main2"/>
+    <file name="news.css" crc="3891191622" ref="news"/>
+    <file name="reviews-and-news.css" crc="167879249" ref="reviews-and-news"/>
+    <file name="main3.css" crc="4063512164" ref="main3"/>
+    <file name="news-1.css" crc="4255844539" ref="news-1"/>
+    <file name="sales.css" crc="3854644185" ref="sales"/>
+    <file name="reviews.css" crc="3816634808" ref="reviews"/>
+    <file name="index.css" crc="4189573117" ref="index"/>
+    <file name="partners.css" crc="106097034" ref="partners"/>
+    <file name="company.css" crc="4222832418" ref="company"/>
+    <file name="about-company.css" crc="3847070852" ref="about-company"/>
+    <file name="catalog.css" crc="288579228" ref="catalog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="museutils.js" crc="4155826306" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="whatinput.js" crc="86476730" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="museconfig.js" crc="328327953" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="jquery.watch.js" crc="117772946" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="pie.js" crc="3827607177" ref="portable-electronic:company:drivers-and-files:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:download:service-center:reviews-and-news"/>
+    <file name="webpro.js" crc="4078243563" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="touchswipe.js" crc="157639107" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="require.js" crc="228336483" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="company:drivers-and-files:index:main2:main3:about-company:sales:partners:download:service-center:reviews-and-news"/>
+  </folder>
+  <folder name="images">
+    <file name="1280x1000_header-crop-u5720.jpg" crc="41794902" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="artboard 4.jpg" crc="91849914" ref="portable-electronic"/>
+    <file name="artboard 3.jpg" crc="4150932499" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_11.jpg" crc="4058155822" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_03.jpg" crc="436722541" ref="portable-electronic"/>
+    <file name="1280x1000_header-crop-u29763.jpg" crc="239769256" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="artboard 1.png" crc="4212396466" seo="true" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="250816_1280x1000_header_allui_12.jpg" crc="461847285" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_04.jpg" crc="258443445" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_13.jpg" crc="200217051" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_05.jpg" crc="4292791955" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_14.jpg" crc="4280072337" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_06.jpg" crc="3946553369" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_15.jpg" crc="35294897" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_07.jpg" crc="434205828" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_16.jpg" crc="45476631" ref="portable-electronic"/>
+    <file name="250816_1280x1000_header_allui_08.jpg" crc="397096408" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_03-crop-u328.jpg" crc="4158771928" ref="portable-electronic"/>
+    <file name="nav_menu.jpg" crc="3789189607" seo="true" ref="portable-electronic:news:news-1:catalog:smartphones:product-page"/>
+    <file name="blank.gif" crc="4208392903" ref="portable-electronic:smartphones:main2:main3"/>
+    <file name="140716_1280x000_portable_electronics_gui_07.jpg" crc="3800303330" seo="true" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_09.jpg" crc="3891336864" seo="true" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_11.jpg" crc="4085482873" seo="true" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_13.jpg" crc="3998785569" seo="true" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_21.jpg" crc="95378188" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_20.jpg" crc="3894056406" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_22.jpg" crc="3831051380" ref="portable-electronic"/>
+    <file name="140716_1280x000_portable_electronics_gui_19.jpg" crc="229108302" ref="portable-electronic"/>
+    <file name="1280x300_footer.jpg" crc="252675147" seo="true" ref="portable-electronic:company:drivers-and-files:news:news-1:index:catalog:smartphones:product-page:main2:main3:about-company:sales:partners:reviews:download:service-center:reviews-and-news"/>
+    <file name="золотой_мост.jpg" crc="3784639803" ref="company:drivers-and-files:reviews-and-news"/>
+    <file name="logo_05.png" crc="182111094" seo="true" ref="company:drivers-and-files:about-company:sales:partners:download:service-center:reviews-and-news"/>
+    <file name="040816_1280x000_company_02-crop-u1413.jpg" crc="3806945258" ref="company"/>
+    <file name="1280x000_support-crop-u1433.jpg" crc="482148102" ref="drivers-and-files"/>
+    <file name="1280x000_news.jpg" crc="155172647" seo="true" ref="news:reviews"/>
+    <file name="1280x000_review.jpg" crc="3849981748" seo="true" ref="news"/>
+    <file name="1280x000_1_news.jpg" crc="47258863" seo="true" ref="news-1"/>
+    <file name="2000x400.jpg" crc="257458800" ref="index:main2:main3"/>
+    <file name="banner2.png" crc="3967482421" seo="true" ref="index:main2:main3"/>
+    <file name="трава на всю ширину.jpg" crc="4114599088" ref="index:main2:main3"/>
+    <file name="banner1.png" crc="360615244" seo="true" ref="index:main2:main3"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_03.jpg" crc="502404595" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_09.jpg" crc="3921401444" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_14.jpg" crc="250669701" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_04.jpg" crc="83829862" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_10.jpg" crc="3897054744" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_16.jpg" crc="4062042802" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_05.jpg" crc="3769329082" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_11.jpg" crc="4248217649" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_06.jpg" crc="4190725636" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_12.jpg" crc="345030914" ref="index"/>
+    <file name="230816_1280x000_main_page_new-style_exp_muse-exp_18.jpg" crc="529707822" ref="index"/>
+    <file name="patt_inv.png" crc="268117143" ref="index:main2:main3"/>
+    <file name="1280x000_main_page.png" crc="332148378" ref="index"/>
+    <file name="bt_card_name_normal_11.jpg" crc="81386213" ref="index:main2:main3"/>
+    <file name="bt_card_name_rollover_11.jpg" crc="239509340" ref="index:main2:main3"/>
+    <file name="bt_card_name_press_11.jpg" crc="338766755" ref="index:main2:main3"/>
+    <file name="tile_09.jpg" crc="154468386" ref="index"/>
+    <file name="untitled-3_03.jpg" crc="3784628353" ref="index:smartphones"/>
+    <file name="untitled-3_05.jpg" crc="321683070" ref="index:smartphones"/>
+    <file name="untitled-3_07.jpg" crc="4245368915" ref="index:smartphones"/>
+    <file name="untitled-3_18.jpg" crc="325345907" ref="index:smartphones"/>
+    <file name="untitled-3_19.jpg" crc="3872153671" ref="index:smartphones"/>
+    <file name="untitled-3_20.jpg" crc="113179449" ref="index:smartphones"/>
+    <file name="untitled-3_12.jpg" crc="3929166271" ref="index:smartphones"/>
+    <file name="untitled-3_13.jpg" crc="274631366" ref="index:smartphones"/>
+    <file name="untitled-3_14.jpg" crc="256483856" ref="index:smartphones"/>
+    <file name="review.jpg" crc="24767930" ref="index:smartphones"/>
+    <file name="260716_1280x000_main_page_07-crop-u24971.jpg" crc="4290173035" ref="index"/>
+    <file name="1280x000_cataloge.jpg" crc="27215769" seo="true" ref="catalog"/>
+    <file name="1280x000_smartphone_group narrow h_blank.jpg" crc="298715675" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_line_win_08.jpg" crc="4068910086" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_line_win_06.jpg" crc="317718903" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_line_win_01_14.jpg" crc="4115573510" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_thin_line_win_09.jpg" crc="446405009" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_thin_line_win_13.jpg" crc="4165178875" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_thin_line_win_11.jpg" crc="69523152" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_tile_winedition_03.jpg" crc="266614591" seo="true" ref="smartphones"/>
+    <file name="filter1.jpg" crc="244042396" seo="true" ref="smartphones"/>
+    <file name="010816_1280x000_smartphone_group_line_win_03.jpg" crc="4066123125" seo="true" ref="smartphones"/>
+    <file name="img_05.jpg" crc="310301038" seo="true" ref="product-page"/>
+    <file name="menu_down_active_04.jpg" crc="85050522" ref="product-page"/>
+    <file name="buttons_down_menu_04_rollover.jpg" crc="3905568978" ref="product-page"/>
+    <file name="menu_down_active_05.jpg" crc="495099196" ref="product-page"/>
+    <file name="buttons_down_menu_05_rollover.jpg" crc="4040566460" ref="product-page"/>
+    <file name="menu_down_active_06.jpg" crc="4255031497" ref="product-page"/>
+    <file name="buttons_down_menu_06_rollover.jpg" crc="322212242" ref="product-page"/>
+    <file name="menu_down_active_07.jpg" crc="436546165" ref="product-page"/>
+    <file name="buttons_down_menu_07_rollover.jpg" crc="4241513616" ref="product-page"/>
+    <file name="buttons_down_menu_03_rollover.jpg" crc="4127368715" ref="product-page"/>
+    <file name="menu_down_active_03.jpg" crc="58219178" ref="product-page"/>
+    <file name="img_09.jpg" crc="4283591398" seo="true" ref="product-page"/>
+    <file name="gallery.jpg" crc="3798852983" seo="true" ref="product-page"/>
+    <file name="help.jpg" crc="445494028" seo="true" ref="product-page"/>
+    <file name="accesorys.jpg" crc="493942794" seo="true" ref="product-page"/>
+    <file name="обзоры.jpg" crc="4057916385" seo="true" ref="product-page"/>
+    <file name="270716_1280x000_smartphone_3-recovered_11.jpg" crc="288334960" seo="true" ref="product-page"/>
+    <file name="2.jpg" crc="121849413" seo="true" ref="product-page"/>
+    <file name="specs.jpg" crc="62014336" seo="true" ref="product-page"/>
+    <file name="1280x000_main_page2.png" crc="4203022743" ref="main2:main3"/>
+    <file name="card-tile_03.jpg" crc="194533121" seo="true" ref="main2:main3"/>
+    <file name="review_normall_03.jpg" crc="212826810" ref="main2:main3"/>
+    <file name="review_rollover_03.jpg" crc="4282957900" ref="main2:main3"/>
+    <file name="review_press_03.jpg" crc="108826874" ref="main2:main3"/>
+    <file name="review-u22532.png" crc="3769705872" ref="main2"/>
+    <file name="close_normal_03.jpg" crc="403199359" ref="main2:main3"/>
+    <file name="close_rollover_03.jpg" crc="228184645" ref="main2:main3"/>
+    <file name="close_press_03.jpg" crc="4006266222" ref="main2:main3"/>
+    <file name="buy_normal_03.jpg" crc="266012750" ref="main2:main3"/>
+    <file name="buy_rollover_03.jpg" crc="4125566533" ref="main2:main3"/>
+    <file name="buy_press_03.jpg" crc="106386951" ref="main2:main3"/>
+    <file name="buy-u22497.png" crc="183418878" ref="main2"/>
+    <file name="260716_1280x000_main_page_03.jpg" crc="3908686585" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_03.png" crc="397531541" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_032.png" crc="258549761" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_04.jpg" crc="124671217" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_042.jpg" crc="4276095145" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_043.jpg" crc="402224128" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_05.jpg" crc="513524063" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_052.jpg" crc="3935034749" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_053.jpg" crc="4277146809" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_06.jpg" crc="509808388" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_06.png" crc="435232468" ref="main2:main3"/>
+    <file name="260716_1280x000_main_page_062.png" crc="287113624" ref="main2:main3"/>
+    <file name="review-u22687.png" crc="3769705872" ref="main3"/>
+    <file name="buy-u22652.png" crc="183418878" ref="main3"/>
+    <file name="bg_02.jpg" crc="4173708867" ref="about-company:sales:partners:download:service-center"/>
+    <file name="040816_1280x000_company.jpg" crc="416484026" seo="true" ref="about-company"/>
+    <file name="040816_1280x000_sales.jpg" crc="4253933038" seo="true" ref="sales"/>
+    <file name="040816_1280x000_partners.jpg" crc="3897443996" seo="true" ref="partners"/>
+    <file name="1280x000_review2.jpg" crc="4178302303" seo="true" ref="reviews"/>
+    <file name="1280x000_drivers and files.jpg" crc="3993856340" seo="true" ref="download"/>
+    <file name="1280x000_service centers.jpg" crc="26462377" seo="true" ref="service-center"/>
+    <file name="1280x000_news and reviews-crop-u29317.jpg" crc="392949125" ref="reviews-and-news"/>
+  </folder>
+  <file name="portable-electronic.html" crc="4129040224" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="company.html" crc="4177214158" seo="true" mt="1479793742170" redirect="true"/>
+  <file name="drivers-and-files.html" crc="3776024135" seo="true" mt="1479793742155" redirect="true"/>
+  <file name="news.html" crc="496184312" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="news-1.html" crc="353506721" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="index.html" crc="3815935749" seo="true" mt="1472440263377" redirect="true"/>
+  <file name="catalog.html" crc="519081324" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="smartphones.html" crc="4057949158" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="product-page.html" crc="3918922272" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="main2.html" crc="4141788867" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="main3.html" crc="4153592588" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="about-company.html" crc="190185580" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="sales.html" crc="3865609694" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="partners.html" crc="4277202457" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="reviews.html" crc="113193729" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="download.html" crc="388264223" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="service-center.html" crc="3992540290" seo="true" mt="1472172520496" redirect="true"/>
+  <file name="reviews-and-news.html" crc="3899087120" seo="true" mt="1479793742171" redirect="true"/>
+</manifest>
